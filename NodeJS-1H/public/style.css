@@ -1,0 +1,11 @@
+p {
+  max-width: 200px;
+  color: red;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: blue;
+}

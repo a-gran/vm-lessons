@@ -2,9 +2,10 @@
   "name": "nodejs-1h",
   "version": "1.0.0",
   "description": "Node JS Course",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
