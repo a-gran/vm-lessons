@@ -1,0 +1,7 @@
+Урок 1. Практика JavaScript. Модальное окно
+
+https://www.youtube.com/watch?v=FX2fiUvrYP4
+
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+https://github.com/vladilenm/practice-javascript-youtube
